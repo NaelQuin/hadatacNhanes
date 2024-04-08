@@ -1,0 +1,692 @@
+SEQN,RXDUSE,RXDDRUG,RXDDRGID,RXQSEEN,RXDDAYS,RXDRSC,RXDRSD,RXDCOUNT
+93732,1,CLOPIDOGREL,d04258,1,30,I21,"Prevent heart attack/myocardial infarction",3
+93742,1,CLOPIDOGREL,d04258,3,1095,D75.9,"Prevent blood clots",9
+93754,1,LOSARTAN,d03821,1,3650,I21,"Prevent heart attack/myocardial infarction",7
+93754,1,METFORMIN,d03807,1,365,E11,"Prevent diabetes",7
+93754,1,WARFARIN,d00022,1,3650,D75.9,"Prevent blood clots",7
+93812,1,CLOPIDOGREL,d04258,3,6570,D75.9,"Prevent blood clots",6
+93832,1,ASPIRIN,d00170,1,1460,D75.9,"Prevent blood clots",3
+93837,1,ASPIRIN,d00170,1,61,D75.9,"Prevent blood clots",7
+93843,1,AMOXICILLIN; CLAVULANATE,d00089,2,7,A49.9,"Prevent bacterial infection",1
+93851,1,CLOPIDOGREL,d04258,2,30,I63,"Prevent stroke",11
+93856,1,CLOPIDOGREL,d04258,1,365,D75.9,"Prevent blood clots",5
+93861,1,ASPIRIN,d00170,2,9125,D75.9,"Prevent blood clots",7
+93861,1,ASPIRIN,d00170,2,9125,I21,"Prevent heart attack/myocardial infarction",7
+93892,1,AMLODIPINE,d00689,1,3650,I63,"Prevent stroke",12
+93892,1,SIMVASTATIN,d00746,1,3650,I21,"Prevent heart attack/myocardial infarction",12
+93894,1,ALBUTEROL,d00749,1,182,R06.9,"Prevent breathing difficulty",5
+93903,1,ASPIRIN,d00170,3,3650,I63,"Prevent stroke",11
+93943,1,CLOPIDOGREL,d04258,1,1825,I63,"Prevent stroke",12
+93943,1,OLMESARTAN,d04801,1,2190,I21,"Prevent heart attack/myocardial infarction",12
+93943,1,OLMESARTAN,d04801,1,2190,I63,"Prevent stroke",12
+93963,1,APIXABAN,d07804,1,14,I63,"Prevent stroke",6
+94010,1,ATORVASTATIN,d04105,1,1095,I21,"Prevent heart attack/myocardial infarction",5
+94016,1,EZETIMIBE,d04824,1,5475,E78.0,"Prevent high cholesterol",11
+94025,1,ALBUTEROL,d00749,1,730,J45,"Prevent asthma",1
+94034,1,TACROLIMUS,d03752,1,3285,T86.9,"Prevent transplanted organ and tissue rejection",3
+94037,1,CARVEDILOL,d03847,1,1825,I21,"Prevent heart attack/myocardial infarction",6
+94043,1,ASPIRIN,d00170,1,2920,I51.9,"Prevent heart disease",5
+94043,1,CLOPIDOGREL,d04258,1,2920,I21,"Prevent heart attack/myocardial infarction",5
+94069,1,CLOPIDOGREL,d04258,1,3650,D75.9,"Prevent blood clots",5
+94073,1,APIXABAN,d07804,1,243,I21,"Prevent heart attack/myocardial infarction",9
+94084,1,GLIMEPIRIDE,d03864,3,3650,E11,"Prevent diabetes",5
+94084,1,METFORMIN,d03807,3,2190,E11,"Prevent diabetes",5
+94086,1,ANASTROZOLE,d03873,1,1095,C80.1,"Prevent cancer",7
+94101,1,ALLOPURINOL,d00023,1,1095,M10.9,"Prevent gout",5
+94155,1,CLOPIDOGREL,d04258,3,61,D75.9,"Prevent blood clots",6
+94156,1,ASPIRIN,d00170,1,730,I21,"Prevent heart attack/myocardial infarction",3
+94202,1,ALLOPURINOL,d00023,1,1095,M10.9,"Prevent gout",1
+94237,1,ATORVASTATIN,d04105,1,1460,I21,"Prevent heart attack/myocardial infarction",9
+94242,1,ISOSORBIDE MONONITRATE,d00269,1,4015,I21,"Prevent heart attack/myocardial infarction",8
+94261,1,ATORVASTATIN,d04105,1,1825,E78.0,"Prevent high cholesterol",3
+94261,1,LISINOPRIL,d00732,1,1825,I10,"Prevent hypertension",3
+94265,1,CLOPIDOGREL,d04258,2,547,I21,"Prevent heart attack/myocardial infarction",6
+94285,1,ALLOPURINOL,d00023,1,1825,M10.9,"Prevent gout",9
+94324,1,ACYCLOVIR,d00001,1,4380,B34.9,"Prevent viral infection",8
+94339,1,RIFAMPIN,d00047,1,31,A49.9,"Prevent bacterial infection",1
+94348,1,LISINOPRIL,d00732,2,365,I63,"Prevent stroke",9
+94348,1,WARFARIN,d00022,2,3650,D75.9,"Prevent blood clots",9
+94381,1,ANASTROZOLE,d03873,2,5475,C50,"prevent breast cancer",1
+94407,1,RALOXIFENE,d04261,1,9125,M81,"Prevent bone loss/osteoporosis",5
+94408,1,PRAVASTATIN,d00348,1,365,E78.0,"Prevent high cholesterol",3
+94410,1,RIVAROXABAN,d07356,1,365,D75.9,"Prevent blood clots",11
+94418,1,ACETAMINOPHEN; OXYCODONE,d03431,1,1460,T88.7,"Prevent drug side effect",5
+94431,1,HYDROCHLOROTHIAZIDE; LISINOPRIL,d03266,1,30,E11.2,"Prevent diabetic kidney disease",6
+94438,1,WARFARIN,d00022,2,8030,D75.9,"Prevent blood clots",3
+94455,1,AMOXICILLIN; CLAVULANATE,d00089,2,5,A49.9,"Prevent bacterial infection",1
+94552,1,ALENDRONATE,d03849,1,2190,M81,"Prevent bone loss/osteoporosis",2
+94598,1,CEPHALEXIN,d00096,2,7,K04.7,"Prevent tooth infection",1
+94618,1,AMITRIPTYLINE,d00146,1,91,G43,"Prevent migraine",8
+94632,1,AMOXICILLIN,d00088,1,1,K04.7,"Prevent tooth infection",4
+94634,1,AMLODIPINE,d00689,1,730,I21,"Prevent heart attack/myocardial infarction",9
+94634,1,AMLODIPINE,d00689,1,730,I63,"Prevent stroke",9
+94634,1,ATORVASTATIN,d04105,1,1825,I21,"Prevent heart attack/myocardial infarction",9
+94634,1,LISINOPRIL,d00732,1,1825,I21,"Prevent heart attack/myocardial infarction",9
+94634,1,NEBIVOLOL,d05265,1,1460,I21,"Prevent heart attack/myocardial infarction",9
+94641,1,MYCOPHENOLATE MOFETIL,d03839,1,4745,T86.9,"Prevent transplanted organ and tissue rejection",8
+94641,1,SIROLIMUS,d04453,1,4745,T86.9,"Prevent transplanted organ and tissue rejection",8
+94670,1,MYCOPHENOLATE MOFETIL,d03839,1,1095,T86.9,"Prevent transplanted organ and tissue rejection",10
+94670,1,TACROLIMUS,d03752,1,1095,T86.9,"Prevent transplanted organ and tissue rejection",10
+94676,1,LISINOPRIL,d00732,1,243,E11.2,"Prevent diabetic kidney disease",4
+94711,1,CLOPIDOGREL,d04258,1,2920,D75.9,"Prevent blood clots",4
+94724,1,ALLOPURINOL,d00023,1,2920,M10.9,"Prevent gout",8
+94750,1,LISINOPRIL,d00732,1,1095,I21,"Prevent heart attack/myocardial infarction",8
+94755,1,CLOPIDOGREL,d04258,1,3650,D75.9,"Prevent blood clots",10
+94755,1,ISOSORBIDE MONONITRATE,d00269,1,61,I21,"Prevent heart attack/myocardial infarction",10
+94779,1,RIVAROXABAN,d07356,2,213,D75.9,"Prevent blood clots",7
+94834,1,OMEPRAZOLE,d00325,1,2920,T88.7,"Prevent drug side effect",6
+94835,1,BENAZEPRIL,d00730,1,4380,I10,"Prevent hypertension",4
+94847,1,APIXABAN,d07804,1,365,D75.9,"Prevent blood clots",7
+94858,1,ALBUTEROL,d00749,1,2920,R06.9,"Prevent breathing difficulty",4
+94872,1,AMLODIPINE,d00689,1,730,I21,"Prevent heart attack/myocardial infarction",5
+94872,1,CLOPIDOGREL,d04258,1,730,D75.9,"Prevent blood clots",5
+94872,1,METOPROLOL,d00134,1,3650,I21,"Prevent heart attack/myocardial infarction",5
+94905,1,PROMETHAZINE,d00787,1,7,T88.7,"Prevent drug side effect",3
+94907,1,ISOSORBIDE MONONITRATE,d00269,1,3650,I21,"Prevent heart attack/myocardial infarction",6
+94907,1,OLMESARTAN,d04801,1,3650,I21,"Prevent heart attack/myocardial infarction",6
+94959,1,ATORVASTATIN,d04105,1,365,E78.0,"Prevent high cholesterol",8
+94974,1,SULFAMETHOXAZOLE; TRIMETHOPRIM,d00124,1,7,A49.9,"Prevent bacterial infection",1
+94993,1,WARFARIN,d00022,1,1825,D75.9,"Prevent blood clots",7
+95000,1,PANTOPRAZOLE,d04514,1,14,K25,"Prevent gastric ulcer",4
+95005,1,ACYCLOVIR,d00001,1,1825,A49.9,"Prevent bacterial infection",4
+95035,1,ATORVASTATIN,d04105,1,365,E11.2,"Prevent diabetic kidney disease",5
+95035,1,LISINOPRIL,d00732,1,730,E11.2,"Prevent diabetic kidney disease",5
+95047,1,LISINOPRIL,d00732,1,1825,K76.9,"Prevent liver disease",7
+95068,1,ASPIRIN,d00170,3,9855,I21,"Prevent heart attack/myocardial infarction",10
+95077,1,ALLOPURINOL,d00023,1,30,M10.9,"Prevent gout",2
+95101,1,APIXABAN,d07804,1,365,I21,"Prevent heart attack/myocardial infarction",3
+95110,1,OMEGA-3 POLYUNSATURATED FATTY ACIDS,d00497,1,365,I51.9,"Prevent heart disease",4
+95116,1,AZITHROMYCIN,d00091,1,730,T86.9,"Prevent transplanted organ and tissue rejection",17
+95116,1,MYCOPHENOLATE MOFETIL,d03839,1,730,T86.9,"Prevent transplanted organ and tissue rejection",17
+95116,1,PREDNISONE,d00350,1,730,T86.9,"Prevent transplanted organ and tissue rejection",17
+95116,1,SULFAMETHOXAZOLE; TRIMETHOPRIM,d00124,1,730,A49.9,"Prevent bacterial infection",17
+95116,1,TACROLIMUS,d03752,1,730,T86.9,"Prevent transplanted organ and tissue rejection",17
+95125,1,SULFAMETHOXAZOLE,d00119,1,5,A49.9,"Prevent bacterial infection",2
+95135,1,ALLOPURINOL,d00023,1,10950,M10.9,"Prevent gout",7
+95138,1,ISOSORBIDE MONONITRATE,d00269,1,182,I21,"Prevent heart attack/myocardial infarction",10
+95151,1,FLUTICASONE; SALMETEROL,d04611,1,30,R06.9,"Prevent breathing difficulty",7
+95151,1,RIVAROXABAN,d07356,1,1095,D75.9,"Prevent blood clots",7
+95155,1,ASPIRIN,d00170,1,1825,I21,"Prevent heart attack/myocardial infarction",6
+95209,1,WARFARIN,d00022,1,3650,D75.9,"Prevent blood clots",8
+95249,1,CLOPIDOGREL,d04258,1,6205,D75.9,"Prevent blood clots",13
+95249,1,LISINOPRIL,d00732,1,6205,I51.9,"Prevent heart disease",13
+95265,1,NITROFURANTOIN,d00112,1,30,N39.0,"Prevent urinary tract infection",5
+95315,1,SULFAMETHOXAZOLE; TRIMETHOPRIM,d00124,3,10,A49.9,"Prevent bacterial infection",3
+95322,1,NIACIN,d00314,1,1825,I21,"Prevent heart attack/myocardial infarction",8
+95338,1,LISINOPRIL,d00732,1,730,K76.9,"Prevent liver disease",8
+95358,1,ALLOPURINOL,d00023,1,1825,M10.9,"Prevent gout",10
+95358,1,WARFARIN,d00022,1,1825,D75.9,"Prevent blood clots",10
+95397,1,APIXABAN,d07804,2,30,D75.9,"Prevent blood clots",9
+95397,1,CLOPIDOGREL,d04258,2,2190,I70,"Prevent atherosclerosis",9
+95411,1,ALLOPURINOL,d00023,1,91,M10.9,"Prevent gout",7
+95419,1,DABIGATRAN,d07137,1,730,D75.9,"Prevent blood clots",5
+95434,1,ISOSORBIDE MONONITRATE,d00269,1,365,I51.9,"Prevent heart disease",14
+95440,1,LOVASTATIN,d00280,1,365,I21,"Prevent heart attack/myocardial infarction",3
+95503,1,CLOPIDOGREL,d04258,1,1825,D75.9,"Prevent blood clots",4
+95503,1,LISINOPRIL,d00732,1,1825,I21,"Prevent heart attack/myocardial infarction",4
+95511,1,RAMIPRIL,d00728,1,2190,E11.2,"Prevent diabetic kidney disease",5
+95526,1,ASPIRIN; DIPYRIDAMOLE,d04497,1,1095,I63,"Prevent stroke",11
+95566,1,WARFARIN,d00022,1,2555,D75.9,"Prevent blood clots",4
+95576,1,METOPROLOL,d00134,1,3650,G43,"Prevent migraine",4
+95590,1,ALLOPURINOL,d00023,2,7300,M10.9,"Prevent gout",5
+95600,1,MYCOPHENOLATE MOFETIL,d03839,3,3285,T86.9,"Prevent transplanted organ and tissue rejection",14
+95600,1,SULFAMETHOXAZOLE; TRIMETHOPRIM,d00124,3,3285,A49.9,"Prevent bacterial infection",14
+95600,1,TACROLIMUS,d03752,3,3285,T86.9,"Prevent transplanted organ and tissue rejection",14
+95637,1,LISINOPRIL,d00732,2,1825,I21,"Prevent heart attack/myocardial infarction",6
+95641,1,CLOPIDOGREL,d04258,1,1825,D75.9,"Prevent blood clots",19
+95641,1,LISINOPRIL,d00732,1,99999,E11.2,"Prevent diabetic kidney disease",19
+95641,1,PIOGLITAZONE,d04442,1,5475,E11.2,"Prevent diabetic kidney disease",19
+95641,1,PIOGLITAZONE,d04442,1,5475,E11,"Prevent diabetes",19
+95644,1,CLOPIDOGREL,d04258,1,1095,I21,"Prevent heart attack/myocardial infarction",12
+95651,1,BENAZEPRIL,d00730,1,4380,E11.2,"Prevent diabetic kidney disease",6
+95654,1,AMOXICILLIN,d00088,3,1095,K04.7,"Prevent tooth infection",7
+95654,1,SIROLIMUS,d04453,3,730,T86.9,"Prevent transplanted organ and tissue rejection",7
+95654,1,TACROLIMUS,d03752,3,1095,T86.9,"Prevent transplanted organ and tissue rejection",7
+95681,1,PANTOPRAZOLE,d04514,3,547,K25,"Prevent gastric ulcer",6
+95687,1,CILOSTAZOL,d04382,1,1825,I51.9,"Prevent heart disease",16
+95725,1,ALLOPURINOL,d00023,1,730,M10.9,"Prevent gout",5
+95725,1,ATORVASTATIN,d04105,1,730,I63,"Prevent stroke",5
+95752,1,55555,,1,3650,I51.9,"Prevent heart disease",2
+95767,1,DABIGATRAN,d07137,1,730,D75.9,"Prevent blood clots",11
+95777,1,CLOPIDOGREL,d04258,3,365,I63,"Prevent stroke",16
+95777,1,LOVASTATIN,d00280,3,1825,I63,"Prevent stroke",16
+95798,1,CARVEDILOL,d03847,1,5110,I21,"Prevent heart attack/myocardial infarction",14
+95798,1,CIPROFLOXACIN,d00011,1,548,A49.9,"Prevent bacterial infection",14
+95798,1,RALOXIFENE,d04261,1,10950,C50,"prevent breast cancer",14
+95801,1,ALBUTEROL,d00749,1,2190,J45,"Prevent asthma",2
+95835,1,CLOPIDOGREL,d04258,1,1460,D75.9,"Prevent blood clots",2
+95838,1,ASPIRIN,d00170,1,365,I51.9,"Prevent heart disease",14
+95880,1,ALLOPURINOL,d00023,2,1095,M10.9,"Prevent gout",3
+95901,1,AMOXICILLIN,d00088,1,4,A49.9,"Prevent bacterial infection",3
+95919,1,ATORVASTATIN,d04105,1,365,E78.0,"Prevent high cholesterol",5
+95939,1,SIMVASTATIN,d00746,3,1825,E78.0,"Prevent high cholesterol",6
+95944,1,ROSUVASTATIN,d04851,1,3650,I21,"Prevent heart attack/myocardial infarction",5
+95944,1,ROSUVASTATIN,d04851,1,3650,I63,"Prevent stroke",5
+95971,1,METFORMIN,d03807,1,1825,E11,"Prevent diabetes",4
+95985,1,LISINOPRIL,d00732,1,1825,I51.9,"Prevent heart disease",10
+96070,1,LOSARTAN,d03821,1,3285,N28.9,"Prevent kidney disease",5
+96070,1,PRAVASTATIN,d00348,1,3285,E78.0,"Prevent high cholesterol",5
+96087,1,ATENOLOL,d00004,1,6935,I21,"Prevent heart attack/myocardial infarction",4
+96087,1,LISINOPRIL,d00732,1,6935,I21,"Prevent heart attack/myocardial infarction",4
+96089,1,ALLOPURINOL,d00023,2,3650,M10.9,"Prevent gout",9
+96089,1,WARFARIN,d00022,2,3650,D75.9,"Prevent blood clots",9
+96100,1,APIXABAN,d07804,1,30,D75.9,"Prevent blood clots",5
+96100,1,APIXABAN,d07804,1,30,I21,"Prevent heart attack/myocardial infarction",5
+96100,1,APIXABAN,d07804,1,30,I63,"Prevent stroke",5
+96117,1,ATORVASTATIN,d04105,2,1825,E78.0,"Prevent high cholesterol",3
+96135,1,ALLOPURINOL,d00023,1,30,M10.9,"Prevent gout",5
+96145,1,WARFARIN,d00022,1,3650,D75.9,"Prevent blood clots",7
+96178,1,ASPIRIN,d00170,1,1825,I21,"Prevent heart attack/myocardial infarction",4
+96181,1,CLOPIDOGREL,d04258,1,730,D75.9,"Prevent blood clots",3
+96184,1,ALLOPURINOL,d00023,1,7300,M10.9,"Prevent gout",6
+96184,1,CLOPIDOGREL,d04258,1,3650,D75.9,"Prevent blood clots",6
+96195,1,ALLOPURINOL,d00023,1,7300,M10.9,"Prevent gout",7
+96252,1,ASPIRIN,d00170,1,2555,D75.9,"Prevent blood clots",16
+96252,1,CLOPIDOGREL,d04258,1,21,D75.9,"Prevent blood clots",16
+96252,1,CLOPIDOGREL,d04258,1,21,I21,"Prevent heart attack/myocardial infarction",16
+96252,1,MYCOPHENOLIC ACID,d05217,1,912,T86.9,"Prevent transplanted organ and tissue rejection",16
+96252,1,PREDNISONE,d00350,1,6570,T86.9,"Prevent transplanted organ and tissue rejection",16
+96252,1,TACROLIMUS,d03752,1,6570,T86.9,"Prevent transplanted organ and tissue rejection",16
+96268,1,LISINOPRIL,d00732,1,2555,I21,"Prevent heart attack/myocardial infarction",10
+96301,1,RIVAROXABAN,d07356,1,1460,D75.9,"Prevent blood clots",1
+96317,1,LISINOPRIL,d00732,1,5475,I10,"Prevent hypertension",1
+96319,1,ATORVASTATIN,d04105,1,1095,I70,"Prevent atherosclerosis",8
+96321,1,APIXABAN,d07804,1,365,D75.9,"Prevent blood clots",5
+96342,1,WARFARIN,d00022,1,730,D75.9,"Prevent blood clots",11
+96349,1,AMLODIPINE,d00689,1,3650,I21,"Prevent heart attack/myocardial infarction",10
+96349,1,CLOPIDOGREL,d04258,1,6570,I21,"Prevent heart attack/myocardial infarction",10
+96349,1,METOPROLOL,d00134,1,365,I21,"Prevent heart attack/myocardial infarction",10
+96366,1,LISINOPRIL,d00732,1,2190,E11.2,"Prevent diabetic kidney disease",14
+96389,1,DIPYRIDAMOLE,d00213,1,3650,D75.9,"Prevent blood clots",6
+96409,1,CIPROFLOXACIN,d00011,3,1095,A49.9,"Prevent bacterial infection",15
+96436,1,CLOPIDOGREL,d04258,1,4380,D75.9,"Prevent blood clots",11
+96436,1,LOSARTAN,d03821,1,4380,I21,"Prevent heart attack/myocardial infarction",11
+96436,1,METOPROLOL,d00134,1,4380,I21,"Prevent heart attack/myocardial infarction",11
+96439,1,SIMVASTATIN,d00746,1,4745,I63,"Prevent stroke",7
+96490,1,CLINDAMYCIN,d00043,1,61,A49.9,"Prevent bacterial infection",3
+96514,1,CHLORHEXIDINE TOPICAL,d01231,1,7300,A49.9,"Prevent bacterial infection",4
+96525,1,CLOPIDOGREL,d04258,1,12045,D75.9,"Prevent blood clots",3
+96568,1,TELMISARTAN,d04364,1,2920,I21,"Prevent heart attack/myocardial infarction",3
+96607,1,WARFARIN,d00022,1,4380,D75.9,"Prevent blood clots",10
+96636,1,NADOLOL,d00018,2,91,G43,"Prevent migraine",4
+96639,1,ISOSORBIDE MONONITRATE,d00269,1,547,I21,"Prevent heart attack/myocardial infarction",4
+96639,1,METOPROLOL,d00134,1,547,I21,"Prevent heart attack/myocardial infarction",4
+96683,1,ATORVASTATIN,d04105,1,365,I21,"Prevent heart attack/myocardial infarction",10
+96683,1,ATORVASTATIN,d04105,1,365,I63,"Prevent stroke",10
+96688,1,AMLODIPINE,d00689,1,2920,I21,"Prevent heart attack/myocardial infarction",15
+96688,1,CARVEDILOL,d03847,1,2920,I21,"Prevent heart attack/myocardial infarction",15
+96688,1,CLONIDINE,d00044,1,1095,I21,"Prevent heart attack/myocardial infarction",15
+96713,1,CLOPIDOGREL,d04258,2,7300,D75.9,"Prevent blood clots",6
+96720,1,WARFARIN,d00022,1,3285,D75.9,"Prevent blood clots",4
+96727,1,CLOPIDOGREL,d04258,3,730,I63,"Prevent stroke",16
+96732,1,CLOPIDOGREL,d04258,1,1095,D75.9,"Prevent blood clots",8
+96732,1,EMPAGLIFLOZIN,d08275,1,61,I51.9,"Prevent heart disease",8
+96754,1,ATORVASTATIN,d04105,1,3650,I21,"Prevent heart attack/myocardial infarction",4
+96755,1,POTASSIUM CHLORIDE,d00345,1,5475,E87.6,"Prevent hypokalemia",6
+96780,1,CLOPIDOGREL,d04258,1,1825,D75.9,"Prevent blood clots",8
+96780,1,RIVAROXABAN,d07356,1,5475,D75.9,"Prevent blood clots",8
+96787,1,ANASTROZOLE,d03873,1,730,C50,"prevent breast cancer",2
+96820,1,ASPIRIN,d00170,1,730,D75.9,"Prevent blood clots",8
+96836,1,SIMVASTATIN,d00746,1,3650,E78.0,"Prevent high cholesterol",5
+96844,1,METFORMIN,d03807,1,547,E11,"Prevent diabetes",3
+96866,1,CARVEDILOL,d03847,1,426,I21,"Prevent heart attack/myocardial infarction",5
+96866,1,CLOPIDOGREL,d04258,1,426,I21,"Prevent heart attack/myocardial infarction",5
+96869,1,HYDRALAZINE; ISOSORBIDE DINITRATE,d05540,1,1825,I51.9,"Prevent heart disease",10
+96869,1,OMEGA-3 POLYUNSATURATED FATTY ACIDS,d00497,1,2190,I51.9,"Prevent heart disease",10
+96879,1,ONDANSETRON,d00867,1,61,R11,"Prevent nausea or vomiting",1
+96909,1,CLOPIDOGREL,d04258,1,456,D75.9,"Prevent blood clots",8
+96944,1,RIVAROXABAN,d07356,1,1095,D75.9,"Prevent blood clots",7
+96982,1,APIXABAN,d07804,1,365,D75.9,"Prevent blood clots",13
+96982,1,ISOSORBIDE MONONITRATE,d00269,1,365,I21,"Prevent heart attack/myocardial infarction",13
+96997,1,ALBUTEROL,d00749,1,2190,R06.9,"Prevent breathing difficulty",3
+97013,1,AMLODIPINE,d00689,1,1460,I21,"Prevent heart attack/myocardial infarction",4
+97040,1,PREDNISONE,d00350,1,1460,T86.9,"Prevent transplanted organ and tissue rejection",11
+97040,1,SIROLIMUS,d04453,1,99999,T86.9,"Prevent transplanted organ and tissue rejection",11
+97058,1,ASPIRIN,d00170,2,5475,D75.9,"Prevent blood clots",10
+97058,1,ASPIRIN,d00170,2,5475,I21,"Prevent heart attack/myocardial infarction",10
+97076,1,PENICILLIN V POTASSIUM,d07730,1,2,A49.9,"Prevent bacterial infection",2
+97080,1,SIMVASTATIN,d00746,2,99999,I63,"Prevent stroke",9
+97124,1,ANASTROZOLE,d03873,1,730,C50,"prevent breast cancer",7
+97145,1,RIVAROXABAN,d07356,1,365,D75.9,"Prevent blood clots",5
+97186,1,FENOFIBRATE,d04286,1,730,E78.0,"Prevent high cholesterol",7
+97186,1,METOPROLOL,d00134,1,3650,I10,"Prevent hypertension",7
+97188,1,ATENOLOL,d00004,3,91,I21,"Prevent heart attack/myocardial infarction",9
+97188,1,ATORVASTATIN,d04105,3,91,E78.0,"Prevent high cholesterol",9
+97188,1,CLOPIDOGREL,d04258,3,91,D75.9,"Prevent blood clots",9
+97188,1,LOSARTAN,d03821,3,122,I21,"Prevent heart attack/myocardial infarction",9
+97209,1,ATENOLOL,d00004,1,1825,I63,"Prevent stroke",2
+97210,1,LISINOPRIL,d00732,1,213,I21,"Prevent heart attack/myocardial infarction",4
+97214,1,ALBUTEROL,d00749,1,2,R06.9,"Prevent breathing difficulty",2
+97215,1,LISINOPRIL,d00732,1,730,K76.9,"Prevent liver disease",4
+97225,1,DABIGATRAN,d07137,1,2555,D75.9,"Prevent blood clots",6
+97252,1,MYCOPHENOLATE MOFETIL,d03839,1,5840,T86.9,"Prevent transplanted organ and tissue rejection",4
+97252,1,TACROLIMUS,d03752,1,5840,T86.9,"Prevent transplanted organ and tissue rejection",4
+97263,1,PANTOPRAZOLE,d04514,2,14,K25,"Prevent gastric ulcer",4
+97264,1,LISINOPRIL,d00732,1,1095,E11.2,"Prevent diabetic kidney disease",5
+97268,1,CLOPIDOGREL,d04258,1,1460,I21,"Prevent heart attack/myocardial infarction",14
+97268,1,WARFARIN,d00022,1,1460,D75.9,"Prevent blood clots",14
+97294,1,CIPROFLOXACIN; DEXAMETHASONE OTIC,d04890,1,6,H66.9,"Prevent ear infection",4
+97308,1,PRAVASTATIN,d00348,1,365,I21,"Prevent heart attack/myocardial infarction",4
+97330,1,CLINDAMYCIN,d00043,1,730,K04.7,"Prevent tooth infection",9
+97390,1,WARFARIN,d00022,1,5475,D75.9,"Prevent blood clots",9
+97403,1,GLIMEPIRIDE,d03864,1,3650,E11,"Prevent diabetes",9
+97412,1,ALBUTEROL; IPRATROPIUM,d04066,1,3650,R06.9,"Prevent breathing difficulty",2
+97415,1,METFORMIN,d03807,1,365,E11,"Prevent diabetes",4
+97417,1,METFORMIN,d03807,1,5475,E11,"Prevent diabetes",4
+97428,1,CLOPIDOGREL,d04258,1,3650,D75.9,"Prevent blood clots",6
+97446,1,AMOXICILLIN,d00088,1,7,K04.7,"Prevent tooth infection",2
+97471,1,AMLODIPINE,d00689,1,912,I51.9,"Prevent heart disease",10
+97471,1,ASPIRIN; DIPYRIDAMOLE,d04497,1,912,D75.9,"Prevent blood clots",10
+97471,1,ASPIRIN; DIPYRIDAMOLE,d04497,1,912,I63,"Prevent stroke",10
+97471,1,METOPROLOL,d00134,1,912,I51.9,"Prevent heart disease",10
+97486,1,CLOPIDOGREL,d04258,2,4380,I63,"Prevent stroke",3
+97505,1,AMLODIPINE,d00689,1,4015,I21,"Prevent heart attack/myocardial infarction",5
+97521,1,WARFARIN,d00022,1,1825,D75.9,"Prevent blood clots",3
+97523,1,LISINOPRIL,d00732,2,730,I21,"Prevent heart attack/myocardial infarction",5
+97535,1,ATORVASTATIN,d04105,1,5840,I21,"Prevent heart attack/myocardial infarction",5
+97559,1,ALBUTEROL,d00749,2,61,J45,"Prevent asthma",1
+97560,1,METOPROLOL,d00134,2,1095,I21,"Prevent heart attack/myocardial infarction",2
+97590,1,CLOPIDOGREL,d04258,1,4745,I21,"Prevent heart attack/myocardial infarction",6
+97606,1,METOPROLOL,d00134,1,365,N28.9,"Prevent kidney disease",3
+97623,1,ATORVASTATIN,d04105,1,1825,E78.0,"Prevent high cholesterol",3
+97630,1,LOVASTATIN,d00280,1,1825,I21,"Prevent heart attack/myocardial infarction",8
+97639,1,APIXABAN,d07804,1,182,D75.9,"Prevent blood clots",11
+97639,1,ASPIRIN,d00170,1,4745,D75.9,"Prevent blood clots",11
+97652,1,CHLORHEXIDINE TOPICAL,d01231,1,30,K04.7,"Prevent tooth infection",2
+97666,1,CLOPIDOGREL,d04258,1,3650,I21,"Prevent heart attack/myocardial infarction",3
+97668,1,WARFARIN,d00022,1,1825,D75.9,"Prevent blood clots",7
+97676,1,ATORVASTATIN,d04105,1,730,E78.0,"Prevent high cholesterol",2
+97697,1,WARFARIN,d00022,1,3650,D75.9,"Prevent blood clots",16
+97708,1,LISINOPRIL,d00732,1,7300,I51.9,"Prevent heart disease",2
+97724,1,RIVAROXABAN,d07356,1,1095,D75.9,"Prevent blood clots",7
+97782,1,CLOPIDOGREL,d04258,1,1825,D75.9,"Prevent blood clots",3
+97788,1,ASPIRIN,d00170,1,2555,I21,"Prevent heart attack/myocardial infarction",4
+97802,1,ASPIRIN,d00170,1,6935,I51.9,"Prevent heart disease",11
+97810,1,AMOXICILLIN,d00088,1,3650,A49.9,"Prevent bacterial infection",1
+97831,1,WARFARIN,d00022,1,9855,D75.9,"Prevent blood clots",6
+97871,1,ATORVASTATIN,d04105,2,1460,E78.0,"Prevent high cholesterol",3
+97871,1,ATORVASTATIN,d04105,2,1460,E78.0,"Prevent high cholesterol",3
+97878,1,ASPIRIN,d00170,1,1095,I21,"Prevent heart attack/myocardial infarction",5
+97891,1,CLOPIDOGREL,d04258,1,2920,D75.9,"Prevent blood clots",8
+97903,1,DILTIAZEM,d00045,1,61,I10,"Prevent hypertension",7
+97903,1,HYDROCHLOROTHIAZIDE,d00253,1,2920,I51.9,"Prevent heart disease",7
+97973,1,ALENDRONATE,d03849,1,730,M81,"Prevent bone loss/osteoporosis",14
+97973,1,AZITHROMYCIN,d00091,1,730,T86.9,"Prevent transplanted organ and tissue rejection",14
+97973,1,SULFAMETHOXAZOLE; TRIMETHOPRIM,d00124,1,730,A49.9,"Prevent bacterial infection",14
+97973,1,TACROLIMUS,d03752,1,730,T86.9,"Prevent transplanted organ and tissue rejection",14
+97978,1,BENZTROPINE,d00175,1,5475,T88.7,"Prevent drug side effect",7
+97985,1,CLOPIDOGREL,d04258,1,2920,I63,"Prevent stroke",7
+97987,1,MYCOPHENOLIC ACID,d05217,2,730,T86.9,"Prevent transplanted organ and tissue rejection",5
+97987,1,PREDNISONE,d00350,2,730,T86.9,"Prevent transplanted organ and tissue rejection",5
+97987,1,TACROLIMUS,d03752,2,730,T86.9,"Prevent transplanted organ and tissue rejection",5
+98016,1,ONDANSETRON,d00867,1,182,R11,"Prevent nausea or vomiting",14
+98019,1,AMLODIPINE,d00689,1,91,I21,"Prevent heart attack/myocardial infarction",8
+98019,1,METOPROLOL,d00134,1,91,I21,"Prevent heart attack/myocardial infarction",8
+98047,1,CLOPIDOGREL,d04258,1,14,D75.9,"Prevent blood clots",5
+98049,1,ALLOPURINOL,d00023,1,2555,M10.9,"Prevent gout",5
+98053,1,METFORMIN,d03807,1,1095,E11,"Prevent diabetes",3
+98125,1,CONJUGATED ESTROGENS TOPICAL,d04396,1,2555,N39.0,"Prevent urinary tract infection",2
+98127,1,CARVEDILOL,d03847,1,2555,I21,"Prevent heart attack/myocardial infarction",4
+98133,1,AMOXICILLIN,d00088,1,730,A49.9,"Prevent bacterial infection",2
+98134,1,LISINOPRIL,d00732,1,730,N28.9,"Prevent kidney disease",3
+98143,1,WARFARIN,d00022,1,1095,D75.9,"Prevent blood clots",7
+98152,1,CLOPIDOGREL,d04258,1,3650,I63,"Prevent stroke",11
+98165,1,ASPIRIN,d00170,1,7300,I63,"Prevent stroke",4
+98198,1,SIMVASTATIN,d00746,1,2190,E78.0,"Prevent high cholesterol",2
+98202,1,ALLOPURINOL,d00023,1,730,M10.9,"Prevent gout",4
+98205,1,ATORVASTATIN,d04105,1,7300,E78.0,"Prevent high cholesterol",5
+98225,1,LISINOPRIL,d00732,1,21,I21,"Prevent heart attack/myocardial infarction",1
+98242,1,ATORVASTATIN,d04105,1,213,E78.0,"Prevent high cholesterol",3
+98242,1,LISINOPRIL,d00732,1,213,N28.9,"Prevent kidney disease",3
+98262,1,APIXABAN,d07804,1,122,D75.9,"Prevent blood clots",2
+98262,1,ATORVASTATIN,d04105,1,365,E78.0,"Prevent high cholesterol",2
+98309,1,CLOPIDOGREL,d04258,1,1460,D75.9,"Prevent blood clots",8
+98338,1,AZITHROMYCIN,d00091,3,3650,T86.9,"Prevent transplanted organ and tissue rejection",10
+98338,1,MYCOPHENOLATE MOFETIL,d03839,3,3650,T86.9,"Prevent transplanted organ and tissue rejection",10
+98338,1,PREDNISONE,d00350,3,3650,T86.9,"Prevent transplanted organ and tissue rejection",10
+98338,1,SULFAMETHOXAZOLE; TRIMETHOPRIM,d00124,3,3650,T86.9,"Prevent transplanted organ and tissue rejection",10
+98338,1,TACROLIMUS,d03752,3,3650,T86.9,"Prevent transplanted organ and tissue rejection",10
+98353,1,ALENDRONATE,d03849,1,182,M81,"Prevent bone loss/osteoporosis",1
+98360,1,POTASSIUM CHLORIDE,d00345,1,1825,E87.6,"Prevent hypokalemia",12
+98360,1,RIVAROXABAN,d07356,1,1095,D75.9,"Prevent blood clots",12
+98369,1,SPIRONOLACTONE,d00373,1,182,N28.9,"Prevent kidney disease",7
+98371,1,CLOPIDOGREL,d04258,1,3650,D75.9,"Prevent blood clots",8
+98389,1,ALBUTEROL,d00749,1,1095,J45,"Prevent asthma",2
+98390,1,ISOSORBIDE MONONITRATE,d00269,1,1825,I21,"Prevent heart attack/myocardial infarction",13
+98413,1,CLOPIDOGREL,d04258,1,365,I63,"Prevent stroke",10
+98429,1,APIXABAN,d07804,3,182,D75.9,"Prevent blood clots",8
+98433,1,ALLOPURINOL,d00023,1,10950,M10.9,"Prevent gout",6
+98444,1,OMEPRAZOLE,d00325,1,3650,K25,"Prevent gastric ulcer",4
+98448,1,AZITHROMYCIN,d00091,1,1,K04.7,"Prevent tooth infection",2
+98480,1,CLOPIDOGREL,d04258,1,1095,I63,"Prevent stroke",6
+98535,1,AMLODIPINE,d00689,1,7300,I21,"Prevent heart attack/myocardial infarction",8
+98535,1,FAMOTIDINE,d00141,1,7300,I21,"Prevent heart attack/myocardial infarction",8
+98535,1,LOSARTAN,d03821,1,7300,I21,"Prevent heart attack/myocardial infarction",8
+98535,1,WARFARIN,d00022,1,182,D75.9,"Prevent blood clots",8
+98542,1,METFORMIN,d03807,1,365,E11,"Prevent diabetes",4
+98557,1,PRAVASTATIN,d00348,1,7300,D75.9,"Prevent blood clots",4
+98564,1,TAMOXIFEN,d00381,1,365,C50,"prevent breast cancer",1
+98581,1,METFORMIN,d03807,2,3285,E11,"Prevent diabetes",3
+98592,1,ALLOPURINOL,d00023,1,1460,M10.9,"Prevent gout",3
+98599,1,ATENOLOL,d00004,1,1095,I21,"Prevent heart attack/myocardial infarction",5
+98602,1,PRAVASTATIN,d00348,1,547,I21,"Prevent heart attack/myocardial infarction",8
+98610,1,METFORMIN,d03807,1,730,E11,"Prevent diabetes",5
+98638,1,WARFARIN,d00022,1,182,D75.9,"Prevent blood clots",8
+98651,1,CLOPIDOGREL,d04258,1,1095,I21,"Prevent heart attack/myocardial infarction",5
+98653,1,ALLOPURINOL,d00023,1,365,M10.9,"Prevent gout",9
+98669,1,WARFARIN,d00022,1,6570,D75.9,"Prevent blood clots",8
+98681,1,AMLODIPINE,d00689,1,42,I21,"Prevent heart attack/myocardial infarction",5
+98681,1,ATORVASTATIN,d04105,1,91,I63,"Prevent stroke",5
+98704,1,ALBUTEROL,d00749,1,730,R06.9,"Prevent breathing difficulty",2
+98707,1,ATORVASTATIN,d04105,1,3650,E78.0,"Prevent high cholesterol",2
+98721,1,ASPIRIN,d00170,1,730,D75.9,"Prevent blood clots",2
+98814,1,ASPIRIN,d00170,1,2555,I21,"Prevent heart attack/myocardial infarction",8
+98820,1,ATENOLOL,d00004,1,2555,I51.9,"Prevent heart disease",1
+98869,1,VALSARTAN,d04113,1,1460,I21,"Prevent heart attack/myocardial infarction",3
+98893,1,CLOPIDOGREL,d04258,1,182,D75.9,"Prevent blood clots",2
+98895,1,AMOXICILLIN,d00088,1,6,K04.7,"Prevent tooth infection",2
+98901,1,ISOSORBIDE MONONITRATE,d00269,1,4380,I21,"Prevent heart attack/myocardial infarction",8
+98922,1,SIMVASTATIN,d00746,1,1825,I21,"Prevent heart attack/myocardial infarction",7
+98956,1,ALBUTEROL,d00749,1,21,R06.9,"Prevent breathing difficulty",4
+98957,1,APIXABAN,d07804,3,1095,D75.9,"Prevent blood clots",6
+98965,1,ISOSORBIDE DINITRATE,d00268,1,7300,I51.9,"Prevent heart disease",9
+98990,1,ATORVASTATIN,d04105,1,1460,I21,"Prevent heart attack/myocardial infarction",19
+99002,1,CARVEDILOL,d03847,1,365,I21,"Prevent heart attack/myocardial infarction",14
+99014,1,ATORVASTATIN,d04105,1,42,I70,"Prevent atherosclerosis",6
+99060,1,CARVEDILOL,d03847,1,2190,I21,"Prevent heart attack/myocardial infarction",15
+99060,1,CLOPIDOGREL,d04258,1,1825,D75.9,"Prevent blood clots",15
+99064,1,TRAZODONE,d00395,1,30,G43,"Prevent migraine",11
+99090,1,WARFARIN,d00022,1,10950,D75.9,"Prevent blood clots",5
+99130,1,PENICILLIN,d00116,2,15,K04.7,"Prevent tooth infection",1
+99152,1,HYDROCHLOROTHIAZIDE,d00253,1,8030,I63,"Prevent stroke",7
+99157,1,METFORMIN,d03807,1,304,E11,"Prevent diabetes",1
+99239,1,WARFARIN,d00022,1,1095,D75.9,"Prevent blood clots",7
+99259,1,SIMVASTATIN,d00746,1,3650,E78.0,"Prevent high cholesterol",4
+99260,1,TERAZOSIN,d00386,1,547,T88.7,"Prevent drug side effect",10
+99262,1,METOPROLOL,d00134,1,730,I21,"Prevent heart attack/myocardial infarction",4
+99287,1,ATORVASTATIN,d04105,1,182,I21,"Prevent heart attack/myocardial infarction",3
+99299,1,CLOPIDOGREL,d04258,1,99999,D75.9,"Prevent blood clots",16
+99299,1,LISINOPRIL,d00732,1,99999,I21,"Prevent heart attack/myocardial infarction",16
+99299,1,OMEPRAZOLE,d00325,1,99999,K25,"Prevent gastric ulcer",16
+99299,1,RIVAROXABAN,d07356,1,99999,D75.9,"Prevent blood clots",16
+99343,1,CLOPIDOGREL,d04258,1,3650,D75.9,"Prevent blood clots",12
+99351,1,VALSARTAN,d04113,3,5110,I21,"Prevent heart attack/myocardial infarction",8
+99383,1,ACYCLOVIR,d00001,2,730,B34.9,"Prevent viral infection",8
+99397,1,CARVEDILOL,d03847,1,4745,I51.9,"Prevent heart disease",6
+99405,1,METFORMIN,d03807,1,21,E11,"Prevent diabetes",2
+99408,1,OFLOXACIN OPHTHALMIC,d03977,1,3,H66.9,"Prevent ear infection",1
+99443,1,ATORVASTATIN,d04105,1,730,E78.0,"Prevent high cholesterol",4
+99454,1,APIXABAN,d07804,1,365,D75.9,"Prevent blood clots",15
+99496,1,ATORVASTATIN,d04105,1,30,I21,"Prevent heart attack/myocardial infarction",11
+99496,1,LOSARTAN,d03821,1,14,N28.9,"Prevent kidney disease",11
+99506,1,WARFARIN,d00022,1,1825,D75.9,"Prevent blood clots",5
+99512,1,APIXABAN,d07804,1,182,D75.9,"Prevent blood clots",9
+99522,1,APIXABAN,d07804,1,365,I21,"Prevent heart attack/myocardial infarction",4
+99532,1,ENALAPRIL,d00013,1,1460,I21,"Prevent heart attack/myocardial infarction",2
+99535,1,LISINOPRIL,d00732,1,9490,E11.2,"Prevent diabetic kidney disease",3
+99565,1,APIXABAN,d07804,1,99999,D75.9,"Prevent blood clots",6
+99602,1,LISINOPRIL,d00732,1,2555,N28.9,"Prevent kidney disease",4
+99606,1,SIMVASTATIN,d00746,1,2555,E78.0,"Prevent high cholesterol",4
+99615,1,OMEPRAZOLE,d00325,1,2190,T88.7,"Prevent drug side effect",14
+99625,1,ATORVASTATIN,d04105,3,1460,I21,"Prevent heart attack/myocardial infarction",5
+99625,1,LISINOPRIL,d00732,3,1460,I21,"Prevent heart attack/myocardial infarction",5
+99625,1,METOPROLOL,d00134,3,1460,I21,"Prevent heart attack/myocardial infarction",5
+99643,1,APIXABAN,d07804,3,99999,D75.9,"Prevent blood clots",15
+99646,1,ALLOPURINOL,d00023,1,730,M10.9,"Prevent gout",6
+99646,1,LISINOPRIL,d00732,1,730,E11.2,"Prevent diabetic kidney disease",6
+99647,1,GLIPIZIDE,d00246,1,365,E11,"Prevent diabetes",11
+99660,1,METHENAMINE,d00106,1,1460,N39.0,"Prevent urinary tract infection",11
+99674,1,WARFARIN,d00022,1,2190,D75.9,"Prevent blood clots",7
+99711,1,ASPIRIN,d00170,2,1460,I63,"Prevent stroke",5
+99726,1,ANASTROZOLE,d03873,1,99999,C50,"prevent breast cancer",7
+99747,1,AMLODIPINE,d00689,1,3650,I21,"Prevent heart attack/myocardial infarction",11
+99785,1,APIXABAN,d07804,1,365,D75.9,"Prevent blood clots",7
+99804,1,AMOXICILLIN,d00088,1,7,K04.7,"Prevent tooth infection",8
+99804,1,CLOPIDOGREL,d04258,1,3650,I21,"Prevent heart attack/myocardial infarction",8
+99820,1,ALBUTEROL; IPRATROPIUM,d04066,1,1825,R06.9,"Prevent breathing difficulty",10
+99820,1,WARFARIN,d00022,1,3650,D75.9,"Prevent blood clots",10
+99825,1,ALLOPURINOL,d00023,1,5840,M10.9,"Prevent gout",5
+99854,1,APIXABAN,d07804,1,182,D75.9,"Prevent blood clots",6
+99866,1,AMLODIPINE,d00689,1,61,I63,"Prevent stroke",8
+99866,1,WARFARIN,d00022,1,4745,D75.9,"Prevent blood clots",8
+99868,1,RIVAROXABAN,d07356,1,365,D75.9,"Prevent blood clots",7
+99906,1,DUTASTERIDE,d04788,1,2920,C61,"Prevent prostate cancer",5
+99906,1,WARFARIN,d00022,1,2920,D75.9,"Prevent blood clots",5
+99913,1,CLOPIDOGREL,d04258,1,730,I21,"Prevent heart attack/myocardial infarction",6
+99954,1,ATORVASTATIN,d04105,1,10950,I21,"Prevent heart attack/myocardial infarction",8
+99954,1,LOSARTAN,d03821,1,365,N28.9,"Prevent kidney disease",8
+99990,1,APIXABAN,d07804,1,365,D75.9,"Prevent blood clots",6
+99997,1,SUCRALFATE,d00377,1,8,K25,"Prevent gastric ulcer",10
+99997,1,TELMISARTAN,d04364,1,1095,I21,"Prevent heart attack/myocardial infarction",10
+100012,1,ASPIRIN,d00170,1,1095,D75.9,"Prevent blood clots",5
+100037,1,ATORVASTATIN,d04105,1,1460,E78.0,"Prevent high cholesterol",4
+100053,1,RALOXIFENE,d04261,1,2190,C50,"prevent breast cancer",6
+100067,1,ATORVASTATIN,d04105,1,4745,E78.0,"Prevent high cholesterol",11
+100067,1,WARFARIN,d00022,1,4745,D75.9,"Prevent blood clots",11
+100072,1,MYCOPHENOLATE MOFETIL,d03839,1,730,T86.9,"Prevent transplanted organ and tissue rejection",9
+100072,1,PREDNISONE,d00350,1,4015,T86.9,"Prevent transplanted organ and tissue rejection",9
+100072,1,TACROLIMUS,d03752,1,730,T86.9,"Prevent transplanted organ and tissue rejection",9
+100074,1,WARFARIN,d00022,1,486,D75.9,"Prevent blood clots",6
+100088,1,CLOPIDOGREL,d04258,1,243,I21,"Prevent heart attack/myocardial infarction",3
+100113,1,LISINOPRIL,d00732,1,3650,E11.2,"Prevent diabetic kidney disease",8
+100113,1,METOPROLOL,d00134,1,3650,I21,"Prevent heart attack/myocardial infarction",8
+100116,1,ATORVASTATIN,d04105,1,1460,E78.0,"Prevent high cholesterol",4
+100129,1,BENAZEPRIL,d00730,1,2555,N28.9,"Prevent kidney disease",4
+100136,1,POTASSIUM CHLORIDE,d00345,1,2555,E87.6,"Prevent hypokalemia",15
+100142,1,ATORVASTATIN,d04105,1,1825,I21,"Prevent heart attack/myocardial infarction",3
+100143,1,CLOPIDOGREL,d04258,1,91,I63,"Prevent stroke",7
+100166,1,CIPROFLOXACIN; DEXAMETHASONE OTIC,d04890,1,3,A49.9,"Prevent bacterial infection",1
+100167,1,AMLODIPINE,d00689,1,243,I21,"Prevent heart attack/myocardial infarction",5
+100167,1,CLOPIDOGREL,d04258,1,243,D75.9,"Prevent blood clots",5
+100167,1,ROSUVASTATIN,d04851,1,243,I21,"Prevent heart attack/myocardial infarction",5
+100172,1,ESTRADIOL,d00537,1,365,G43,"Prevent migraine",7
+100185,1,PANTOPRAZOLE,d04514,1,91,K25,"Prevent gastric ulcer",13
+100222,1,WARFARIN,d00022,1,10950,D75.9,"Prevent blood clots",22
+100235,1,CLOPIDOGREL,d04258,1,8030,D75.9,"Prevent blood clots",6
+100243,1,METOPROLOL,d00134,1,2920,I21,"Prevent heart attack/myocardial infarction",9
+100268,1,FAMOTIDINE; IBUPROFEN,d07764,1,30,K25,"Prevent gastric ulcer",2
+100354,1,ALLOPURINOL,d00023,1,243,M10.9,"Prevent gout",5
+100354,1,ATORVASTATIN,d04105,1,243,I63,"Prevent stroke",5
+100373,1,CLOPIDOGREL,d04258,1,304,D75.9,"Prevent blood clots",4
+100385,1,WARFARIN,d00022,1,1460,D75.9,"Prevent blood clots",4
+100389,1,AMOXICILLIN,d00088,1,8,A49.9,"Prevent bacterial infection",5
+100395,1,CLOPIDOGREL,d04258,1,3285,D75.9,"Prevent blood clots",15
+100399,1,HYDROCHLOROTHIAZIDE; LISINOPRIL,d03266,2,1460,I63,"Prevent stroke",6
+100406,1,CLOPIDOGREL,d04258,1,1825,D75.9,"Prevent blood clots",6
+100409,1,VENLAFAXINE,d03181,1,152,G43,"Prevent migraine",7
+100412,1,ASPIRIN,d00170,1,3650,I21,"Prevent heart attack/myocardial infarction",7
+100414,1,APIXABAN,d07804,1,365,D75.9,"Prevent blood clots",5
+100414,1,APIXABAN,d07804,1,365,I63,"Prevent stroke",5
+100422,1,ATORVASTATIN,d04105,1,730,I70,"Prevent atherosclerosis",7
+100422,1,POTASSIUM CHLORIDE,d00345,1,730,I51.9,"Prevent heart disease",7
+100424,1,ALENDRONATE,d03849,1,21,M81,"Prevent bone loss/osteoporosis",9
+100424,1,LISINOPRIL,d00732,1,30,I21,"Prevent heart attack/myocardial infarction",9
+100446,1,ROSUVASTATIN,d04851,1,61,E78.0,"Prevent high cholesterol",1
+100469,1,ASPIRIN,d00170,1,61,I21,"Prevent heart attack/myocardial infarction",6
+100469,1,ASPIRIN,d00170,1,61,I51.9,"Prevent heart disease",6
+100469,1,ASPIRIN,d00170,1,61,I63,"Prevent stroke",6
+100469,1,HYDROCHLOROTHIAZIDE; LISINOPRIL,d03266,1,365,I10,"Prevent hypertension",6
+100474,1,LISINOPRIL,d00732,1,730,E11.2,"Prevent diabetic kidney disease",9
+100484,1,CLOPIDOGREL,d04258,1,152,D75.9,"Prevent blood clots",15
+100496,1,ALBUTEROL,d00749,1,14,R06.9,"Prevent breathing difficulty",1
+100501,1,LISINOPRIL,d00732,2,1095,I21,"Prevent heart attack/myocardial infarction",12
+100508,1,LISINOPRIL,d00732,1,3650,I21,"Prevent heart attack/myocardial infarction",9
+100508,1,PANTOPRAZOLE,d04514,1,3650,T88.7,"Prevent drug side effect",9
+100516,1,METFORMIN,d03807,1,61,E11,"Prevent diabetes",5
+100528,1,HYDROXYZINE,d00907,1,5840,T88.7,"Prevent drug side effect",2
+100554,1,CLOPIDOGREL,d04258,1,2190,D75.9,"Prevent blood clots",12
+100565,1,CLOPIDOGREL,d04258,1,45,D75.9,"Prevent blood clots",3
+100584,1,CLOPIDOGREL,d04258,1,4745,I21,"Prevent heart attack/myocardial infarction",4
+100584,1,METOPROLOL,d00134,1,4745,I21,"Prevent heart attack/myocardial infarction",4
+100584,1,RAMIPRIL,d00728,1,4745,I21,"Prevent heart attack/myocardial infarction",4
+100584,1,SIMVASTATIN,d00746,1,4745,I21,"Prevent heart attack/myocardial infarction",4
+100586,1,RIVAROXABAN,d07356,1,1825,D75.9,"Prevent blood clots",7
+100594,1,ALBUTEROL,d00749,1,1825,R06.9,"Prevent breathing difficulty",8
+100617,1,AMLODIPINE,d00689,2,3650,I21,"Prevent heart attack/myocardial infarction",12
+100617,1,TELMISARTAN,d04364,2,5475,I21,"Prevent heart attack/myocardial infarction",12
+100625,1,METFORMIN,d03807,1,365,E11,"Prevent diabetes",2
+100638,1,CYCLOSPORINE,d00079,2,1460,T86.9,"Prevent transplanted organ and tissue rejection",7
+100638,1,MYCOPHENOLATE MOFETIL,d03839,2,1460,T86.9,"Prevent transplanted organ and tissue rejection",7
+100696,1,CARVEDILOL,d03847,3,1825,I21,"Prevent heart attack/myocardial infarction",7
+100716,1,SUCRALFATE,d00377,1,30,K25,"Prevent gastric ulcer",4
+100726,1,ASPIRIN,d00170,1,3650,I21,"Prevent heart attack/myocardial infarction",5
+100739,1,CLOPIDOGREL,d04258,2,91,D75.9,"Prevent blood clots",6
+100774,1,CLOPIDOGREL,d04258,1,730,D75.9,"Prevent blood clots",10
+100774,1,CLOPIDOGREL,d04258,1,730,I63,"Prevent stroke",10
+100800,1,LOVASTATIN,d00280,1,3650,I21,"Prevent heart attack/myocardial infarction",4
+100816,1,MISOPROSTOL,d00303,1,1825,K25,"Prevent gastric ulcer",10
+100848,1,ATORVASTATIN,d04105,3,730,E78.0,"Prevent high cholesterol",7
+100848,1,CLOPIDOGREL,d04258,1,730,D75.9,"Prevent blood clots",7
+100848,1,LISINOPRIL,d00732,1,730,I10,"Prevent hypertension",7
+100866,1,ATORVASTATIN,d04105,1,1825,I51.9,"Prevent heart disease",3
+100876,1,OMEGA-3 POLYUNSATURATED FATTY ACIDS,d00497,1,1825,I51.9,"Prevent heart disease",7
+100886,1,CLOPIDOGREL,d04258,1,1095,D75.9,"Prevent blood clots",6
+100890,1,CLOPIDOGREL,d04258,1,3650,I51.9,"Prevent heart disease",7
+100905,1,ATORVASTATIN,d04105,1,334,I21,"Prevent heart attack/myocardial infarction",4
+100909,1,CLOPIDOGREL,d04258,1,1825,D75.9,"Prevent blood clots",7
+100915,1,METOPROLOL,d00134,1,304,I21,"Prevent heart attack/myocardial infarction",2
+100919,1,SIMVASTATIN,d00746,1,8030,E78.0,"Prevent high cholesterol",5
+100919,1,SIMVASTATIN,d00746,1,8030,I21,"Prevent heart attack/myocardial infarction",5
+100948,1,RAMIPRIL,d00728,1,1460,I10,"Prevent hypertension",3
+100963,1,CLOPIDOGREL,d04258,1,3650,D75.9,"Prevent blood clots",7
+101006,1,SULFAMETHOXAZOLE; TRIMETHOPRIM,d00124,1,61,A49.9,"Prevent bacterial infection",3
+101010,1,CLOPIDOGREL,d04258,1,3650,D75.9,"Prevent blood clots",4
+101010,1,LISINOPRIL,d00732,1,3650,I21,"Prevent heart attack/myocardial infarction",4
+101010,1,METOPROLOL,d00134,1,3650,I21,"Prevent heart attack/myocardial infarction",4
+101010,1,SIMVASTATIN,d00746,1,3650,I21,"Prevent heart attack/myocardial infarction",4
+101018,1,ATORVASTATIN,d04105,1,6935,I21,"Prevent heart attack/myocardial infarction",8
+101049,1,LISINOPRIL,d00732,1,1095,I51.9,"Prevent heart disease",11
+101087,1,ALBUTEROL; IPRATROPIUM,d04066,2,730,R06.9,"Prevent breathing difficulty",9
+101087,1,LISINOPRIL,d00732,2,730,I63,"Prevent stroke",9
+101087,1,LOVASTATIN,d00280,2,182,I21,"Prevent heart attack/myocardial infarction",9
+101088,1,WARFARIN,d00022,1,365,D75.9,"Prevent blood clots",8
+101091,1,ISOSORBIDE MONONITRATE,d00269,1,6,I21,"Prevent heart attack/myocardial infarction",12
+101112,1,MYCOPHENOLATE MOFETIL,d03839,1,1095,T86.9,"Prevent transplanted organ and tissue rejection",8
+101112,1,MYCOPHENOLIC ACID,d05217,1,1095,T86.9,"Prevent transplanted organ and tissue rejection",8
+101112,1,PREDNISONE,d00350,1,1095,T86.9,"Prevent transplanted organ and tissue rejection",8
+101112,1,TACROLIMUS,d03752,1,1095,T86.9,"Prevent transplanted organ and tissue rejection",8
+101124,1,LISINOPRIL,d00732,2,730,E11.2,"Prevent diabetic kidney disease",4
+101139,1,VALSARTAN,d04113,1,973,N28.9,"Prevent kidney disease",1
+101143,1,WARFARIN,d00022,1,2190,D75.9,"Prevent blood clots",8
+101162,1,AMLODIPINE,d00689,1,365,I63,"Prevent stroke",6
+101183,1,ISOSORBIDE MONONITRATE,d00269,1,1825,I21,"Prevent heart attack/myocardial infarction",11
+101183,1,METOPROLOL,d00134,1,1825,I63,"Prevent stroke",11
+101196,1,CLOPIDOGREL,d04258,1,1095,D75.9,"Prevent blood clots",12
+101222,1,PRAVASTATIN,d00348,1,730,E78.0,"Prevent high cholesterol",3
+101277,1,CLOPIDOGREL,d04258,1,4380,D75.9,"Prevent blood clots",7
+101277,1,EZETIMIBE,d04824,1,5475,I21,"Prevent heart attack/myocardial infarction",7
+101286,1,CARVEDILOL,d03847,1,730,I21,"Prevent heart attack/myocardial infarction",7
+101323,1,POTASSIUM CHLORIDE,d00345,1,7300,E87.6,"Prevent hypokalemia",11
+101327,1,ASPIRIN,d00170,1,2190,I63,"Prevent stroke",5
+101339,1,METFORMIN,d03807,3,3650,E11,"Prevent diabetes",4
+101340,1,ASPIRIN,d00170,1,7300,D75.9,"Prevent blood clots",7
+101350,1,ALBUTEROL,d00749,2,182,R06.9,"Prevent breathing difficulty",4
+101389,1,CANAGLIFLOZIN; METFORMIN,d08280,1,730,E11,"Prevent diabetes",8
+101389,1,LISINOPRIL,d00732,1,730,K76.9,"Prevent liver disease",8
+101393,1,AMLODIPINE,d00689,1,5475,I10,"Prevent hypertension",2
+101398,1,METOPROLOL,d00134,1,8030,I21,"Prevent heart attack/myocardial infarction",11
+101411,1,TRIHEXYPHENIDYL,d00970,1,2190,T88.7,"Prevent drug side effect",3
+101449,1,METFORMIN,d03807,1,1825,E11,"Prevent diabetes",1
+101462,1,METFORMIN,d03807,1,730,E11,"Prevent diabetes",3
+101479,1,ANASTROZOLE,d03873,1,1095,C50,"prevent breast cancer",4
+101500,1,METFORMIN,d03807,1,365,E11,"Prevent diabetes",3
+101510,1,ASPIRIN,d00170,1,730,I21,"Prevent heart attack/myocardial infarction",12
+101510,1,RIVAROXABAN,d07356,1,122,D75.9,"Prevent blood clots",12
+101571,1,CLOPIDOGREL,d04258,1,730,D75.9,"Prevent blood clots",5
+101580,1,DULAGLUTIDE,d08290,1,730,E11,"Prevent diabetes",7
+101580,1,LOSARTAN,d03821,1,4015,I63,"Prevent stroke",7
+101623,1,CLOPIDOGREL,d04258,1,2190,D75.9,"Prevent blood clots",5
+101640,1,PENTOSAN POLYSULFATE SODIUM,d04052,1,14,K25,"Prevent gastric ulcer",4
+101654,1,METOPROLOL,d00134,3,8760,I21,"Prevent heart attack/myocardial infarction",19
+101679,1,OMEGA-3 POLYUNSATURATED FATTY ACIDS,d00497,1,486,M81,"Prevent bone loss/osteoporosis",6
+101689,1,CLOPIDOGREL,d04258,1,730,D75.9,"Prevent blood clots",8
+101690,1,ALLOPURINOL,d00023,1,10950,M10.9,"Prevent gout",9
+101690,1,ATORVASTATIN,d04105,1,1825,I21,"Prevent heart attack/myocardial infarction",9
+101690,1,METOPROLOL,d00134,1,10950,I21,"Prevent heart attack/myocardial infarction",9
+101694,1,ASPIRIN,d00170,1,1095,I21,"Prevent heart attack/myocardial infarction",6
+101697,1,VENLAFAXINE,d03181,1,3650,G43,"Prevent migraine",4
+101702,1,SIMVASTATIN,d00746,1,5475,I21,"Prevent heart attack/myocardial infarction",12
+101726,1,LISINOPRIL,d00732,1,1460,E11.2,"Prevent diabetic kidney disease",4
+101737,1,ALBUTEROL,d00749,1,365,R06.9,"Prevent breathing difficulty",5
+101737,1,ALBUTEROL,d00749,1,365,R06.9,"Prevent breathing difficulty",5
+101743,1,DABIGATRAN,d07137,1,14,D75.9,"Prevent blood clots",11
+101743,1,LISINOPRIL,d00732,1,182,I21,"Prevent heart attack/myocardial infarction",11
+101761,1,CLOPIDOGREL,d04258,3,2920,I21,"Prevent heart attack/myocardial infarction",7
+101763,1,CLOPIDOGREL,d04258,1,3650,D75.9,"Prevent blood clots",17
+101764,1,PREDNISONE,d00350,1,6205,T86.9,"Prevent transplanted organ and tissue rejection",10
+101766,1,ATORVASTATIN,d04105,1,730,I21,"Prevent heart attack/myocardial infarction",3
+101772,1,CLOPIDOGREL,d04258,2,4380,I63,"Prevent stroke",3
+101783,1,AMLODIPINE,d00689,3,6570,I21,"Prevent heart attack/myocardial infarction",17
+101783,1,ASPIRIN,d00170,3,6570,I21,"Prevent heart attack/myocardial infarction",17
+101783,1,ASPIRIN,d00170,3,6570,I51.9,"Prevent heart disease",17
+101785,1,LOSARTAN,d03821,1,365,I51.9,"Prevent heart disease",8
+101805,1,APIXABAN,d07804,3,2920,I63,"Prevent stroke",9
+101866,1,AMLODIPINE,d00689,1,730,I63,"Prevent stroke",5
+101874,1,SIMVASTATIN,d00746,1,730,I21,"Prevent heart attack/myocardial infarction",3
+101883,1,AMOXICILLIN,d00088,2,4745,K04.7,"Prevent tooth infection",13
+101921,1,AMLODIPINE,d00689,1,2190,I21,"Prevent heart attack/myocardial infarction",10
+101922,1,ROSUVASTATIN,d04851,1,2555,I21,"Prevent heart attack/myocardial infarction",1
+101936,1,ALLOPURINOL,d00023,1,7300,M10.9,"Prevent gout",7
+101989,1,SIMVASTATIN,d00746,1,1095,I21,"Prevent heart attack/myocardial infarction",6
+102060,1,APIXABAN,d07804,1,30,D75.9,"Prevent blood clots",6
+102082,1,APIXABAN,d07804,2,1825,D75.9,"Prevent blood clots",12
+102104,1,ATORVASTATIN,d04105,1,1095,I21,"Prevent heart attack/myocardial infarction",8
+102183,1,LOSARTAN,d03821,1,3650,I51.9,"Prevent heart disease",3
+102214,1,ATORVASTATIN,d04105,1,2920,I70,"Prevent atherosclerosis",5
+102271,1,CLOPIDOGREL,d04258,1,2920,D75.9,"Prevent blood clots",4
+102271,1,CLOPIDOGREL,d04258,1,2920,I21,"Prevent heart attack/myocardial infarction",4
+102276,1,LOSARTAN,d03821,1,365,I21,"Prevent heart attack/myocardial infarction",9
+102317,1,CARVEDILOL,d03847,2,4380,I21,"Prevent heart attack/myocardial infarction",12
+102317,1,CLOPIDOGREL,d04258,2,4745,I21,"Prevent heart attack/myocardial infarction",12
+102318,1,ASPIRIN; DIPYRIDAMOLE,d04497,3,1460,D75.9,"Prevent blood clots",7
+102320,1,CARVEDILOL,d03847,1,2190,I21,"Prevent heart attack/myocardial infarction",5
+102320,1,SIMVASTATIN,d00746,1,365,I21,"Prevent heart attack/myocardial infarction",5
+102320,1,SIMVASTATIN,d00746,1,365,I63,"Prevent stroke",5
+102342,1,ATORVASTATIN,d04105,1,243,E78.0,"Prevent high cholesterol",2
+102368,1,OMEGA-3 POLYUNSATURATED FATTY ACIDS,d00497,1,3650,I51.9,"Prevent heart disease",5
+102368,1,ROSUVASTATIN,d04851,1,3650,E78.0,"Prevent high cholesterol",5
+102370,1,APIXABAN,d07804,1,730,I51.9,"Prevent heart disease",11
+102371,1,ALLOPURINOL,d00023,1,1095,M10.9,"Prevent gout",8
+102372,1,LISINOPRIL,d00732,1,365,I21,"Prevent heart attack/myocardial infarction",3
+102391,1,MYCOPHENOLATE MOFETIL,d03839,1,2190,T86.9,"Prevent transplanted organ and tissue rejection",5
+102391,1,TACROLIMUS,d03752,1,2190,T86.9,"Prevent transplanted organ and tissue rejection",5
+102447,1,IMATINIB,d04758,1,3650,C80.1,"Prevent cancer",3
+102450,1,ASPIRIN,d00170,1,365,I21,"Prevent heart attack/myocardial infarction",6
+102480,1,ATORVASTATIN,d04105,1,1825,I21,"Prevent heart attack/myocardial infarction",4
+102497,1,ALLOPURINOL,d00023,1,1460,M10.9,"Prevent gout",3
+102544,1,RIVAROXABAN,d07356,1,1825,D75.9,"Prevent blood clots",6
+102559,1,GLIPIZIDE,d00246,1,152,E11,"Prevent diabetes",1
+102572,1,ALLOPURINOL,d00023,1,9125,M10.9,"Prevent gout",7
+102572,1,DABIGATRAN,d07137,1,182,D75.9,"Prevent blood clots",7
+102581,1,CEPHALEXIN,d00096,1,14,K04.7,"Prevent tooth infection",1
+102588,1,CLOPIDOGREL,d04258,1,1825,I51.9,"Prevent heart disease",4
+102592,1,NITROFURANTOIN,d00112,1,730,N39.0,"Prevent urinary tract infection",10
+102611,1,GLIMEPIRIDE,d03864,1,730,E11,"Prevent diabetes",7
+102617,1,BISOPROLOL; HYDROCHLOROTHIAZIDE,d03744,1,10950,I51.9,"Prevent heart disease",5
+102618,1,APIXABAN,d07804,1,274,D75.9,"Prevent blood clots",3
+102637,1,CLOPIDOGREL,d04258,1,3650,D75.9,"Prevent blood clots",13
+102637,1,ISOSORBIDE MONONITRATE,d00269,1,3650,I21,"Prevent heart attack/myocardial infarction",13
+102637,1,OMEGA-3 POLYUNSATURATED FATTY ACIDS,d00497,1,3650,I51.9,"Prevent heart disease",13
+102661,1,LISINOPRIL,d00732,1,90,E11.2,"Prevent diabetic kidney disease",4
+102708,1,SIMVASTATIN,d00746,1,3650,I21,"Prevent heart attack/myocardial infarction",3
+102729,1,ATORVASTATIN,d04105,1,1460,E78.0,"Prevent high cholesterol",6
+102732,1,APIXABAN,d07804,1,548,D75.9,"Prevent blood clots",10
+102732,1,NITROGLYCERIN,d00321,1,5840,I21,"Prevent heart attack/myocardial infarction",10
+102778,1,ALLOPURINOL,d00023,1,1095,M10.9,"Prevent gout",9
+102845,1,ACYCLOVIR,d00001,1,5110,T86.9,"Prevent transplanted organ and tissue rejection",9
+102845,1,MYCOPHENOLATE MOFETIL,d03839,1,5110,T86.9,"Prevent transplanted organ and tissue rejection",9
+102850,1,BENZTROPINE,d00175,1,365,T88.7,"Prevent drug side effect",9
+102860,1,LISINOPRIL,d00732,1,4745,E11.2,"Prevent diabetic kidney disease",5
+102871,1,ALENDRONATE,d03849,1,3650,M81,"Prevent bone loss/osteoporosis",2
+102873,1,AMOXICILLIN,d00088,1,1095,K04.7,"Prevent tooth infection",10
+102883,1,ATORVASTATIN,d04105,1,2555,I21,"Prevent heart attack/myocardial infarction",7
+102883,1,ISOSORBIDE MONONITRATE,d00269,1,2555,I21,"Prevent heart attack/myocardial infarction",7
+102883,1,METOPROLOL,d00134,1,2555,I21,"Prevent heart attack/myocardial infarction",7
+102883,1,WARFARIN,d00022,1,3650,D75.9,"Prevent blood clots",7
+102901,1,METFORMIN,d03807,1,1095,E11,"Prevent diabetes",2
+102916,1,ATORVASTATIN,d04105,1,5840,E78.0,"Prevent high cholesterol",7
+102923,1,WARFARIN,d00022,1,3650,D75.9,"Prevent blood clots",9
+102924,1,DABIGATRAN,d07137,1,1460,D75.9,"Prevent blood clots",5
+102940,1,CLOPIDOGREL,d04258,1,2920,I63,"Prevent stroke",5
+102940,1,OMEPRAZOLE,d00325,1,5475,T88.7,"Prevent drug side effect",5
+102950,1,DABIGATRAN,d07137,1,3650,D75.9,"Prevent blood clots",6
